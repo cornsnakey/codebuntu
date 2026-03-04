@@ -41,5 +41,6 @@ codebuntu is a ubuntu (XBUNTU) iso project im trying made for low end laptops wh
 
 
 
-links
-cubic https://github.com/PJ-Singh-001/Cubic
+links:
+
+cubic: https://github.com/PJ-Singh-001/Cubic
